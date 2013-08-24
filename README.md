@@ -1,4 +1,4 @@
-forge-jrebirth-addon
+forge-andriod-addon
 ====================
 
-Forge2 JRebirth Plugin
+Forge2 andriod Addon
